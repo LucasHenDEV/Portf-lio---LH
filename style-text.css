@@ -1,0 +1,31 @@
+body {
+  font-family: kanit, sans-serif;
+  font-size: 25px;
+}
+
+.titulo {
+  color: white;
+}
+
+.biografia {
+  color: white;
+}
+
+.skills {
+  color: white;
+}
+
+.project {
+  color: white;
+}
+
+.contact {
+  color: white;
+}
+
+@media (max-heidth: 320px) {
+  .content-skill {
+    width: 100%;
+    height: auto;
+  }
+}

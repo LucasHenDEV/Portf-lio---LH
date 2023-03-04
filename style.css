@@ -1,0 +1,54 @@
+body {
+  background-image: url(529328.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  border-radius: 50px;
+}
+
+.text {
+  margin: 70px;
+}
+
+.biografia {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.bio-photo {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.content-skill {
+  width: 95%;
+}
+.titulo {
+  text-align: center;
+}
+
+.skills {
+  text-align: center;
+  margin: auto;
+  width: 300px;
+}
+
+.project {
+  text-align: center;
+}
+
+.contact {
+  text-align: center;
+}
+
+a {
+  color: #ffff;
+}
